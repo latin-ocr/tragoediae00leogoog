@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tragoediae00leogoog_0327.png"; bbox 0 0 2580 4366; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 467 1145 768 1210">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 467 1145 768 1210">
+     <span class='ocr_line' id='line_1_1' title="bbox 467 1145 768 1210; baseline 0.01 -3"><span class='ocrx_word' id='word_1_1' title='bbox 467 1145 768 1210; x_wconf 75' lang='lat' dir='ltr'>PERSONAE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 485 1414 713 2146">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 485 1414 713 2146">
+     <span class='ocr_line' id='line_1_2' title="bbox 487 1414 616 1469; baseline 0.008 -2"><span class='ocrx_word' id='word_1_2' title='bbox 487 1414 616 1469; x_wconf 76' lang='lat' dir='ltr'><strong>HEGVBA</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 488 1500 692 1556; baseline 0.02 -4"><span class='ocrx_word' id='word_1_3' title='bbox 488 1500 692 1556; x_wconf 77' lang='lat' dir='ltr'><strong>TALTHYBNS</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 488 1584 642 1640; baseline 0.019 -4"><span class='ocrx_word' id='word_1_4' title='bbox 488 1584 642 1640; x_wconf 86' lang='lat' dir='ltr'>PYRRHVS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 487 1670 670 1724; baseline 0.011 -2"><span class='ocrx_word' id='word_1_5' title='bbox 487 1670 670 1724; x_wconf 81' lang='lat' dir='ltr'><strong>AGAMEMNO</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 488 1755 631 1808; baseline 0.014 -2"><span class='ocrx_word' id='word_1_6' title='bbox 488 1755 631 1808; x_wconf 81' lang='lat' dir='ltr'>CALCHAS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 488 1838 713 1893; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 488 1838 713 1893; x_wconf 76' lang='lat' dir='ltr'><strong>ANDROMAGHA</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 486 1923 592 1977; baseline -0.009 0"><span class='ocrx_word' id='word_1_8' title='bbox 486 1923 592 1977; x_wconf 70' lang='lat' dir='ltr'>SENEX</span> 
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 485 2008 663 2062; baseline 0.017 -3"><span class='ocrx_word' id='word_1_9' title='bbox 485 2008 663 2062; x_wconf 78' lang='lat' dir='ltr'>ASTYANAX</span> 
+     </span>
+     <span class='ocr_line' id='line_1_10' title="bbox 485 2092 599 2146; baseline 0.018 -1"><span class='ocrx_word' id='word_1_10' title='bbox 485 2092 599 2146; x_wconf 80' lang='lat' dir='ltr'>VLIXES</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 483 2176 752 2484">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 483 2176 752 2484">
+     <span class='ocr_line' id='line_1_11' title="bbox 484 2176 612 2231; baseline -0.008 -2"><span class='ocrx_word' id='word_1_11' title='bbox 484 2176 612 2231; x_wconf 78' lang='lat' dir='ltr'><strong>HELENA</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_12' title="bbox 484 2261 627 2316; baseline 0.014 -2"><span class='ocrx_word' id='word_1_12' title='bbox 484 2261 627 2316; x_wconf 79' lang='lat' dir='ltr'>NVNTlVS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_13' title="bbox 483 2346 752 2401; baseline 0.011 -3"><span class='ocrx_word' id='word_1_13' title='bbox 483 2346 657 2400; x_wconf 81' lang='lat' dir='ltr'>POLYXENA</span> <span class='ocrx_word' id='word_1_14' title='bbox 677 2349 752 2401; x_wconf 74' lang='lat' dir='ltr'><strong>tacita</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_14' title="bbox 486 2431 614 2484; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 486 2431 614 2484; x_wconf 86' lang='lat' dir='ltr'>GHORVS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 480 2566 746 2622">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 480 2566 746 2622">
+     <span class='ocr_line' id='line_1_15' title="bbox 480 2566 746 2622; baseline 0.011 -3"><span class='ocrx_word' id='word_1_16' title='bbox 480 2566 606 2619; x_wconf 81' lang='lat' dir='ltr'>SCAENA</span> <span class='ocrx_word' id='word_1_17' title='bbox 625 2567 746 2622; x_wconf 75' lang='lat' dir='ltr'><strong>TROIAE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1294 4366">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1294 4366">
+     <span class='ocr_line' id='line_1_16' title="bbox 0 0 1294 4366; baseline 0 4"><span class='ocrx_word' id='word_1_18' title='bbox 0 0 1294 4366; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

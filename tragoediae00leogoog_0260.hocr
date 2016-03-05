@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tragoediae00leogoog_0260.png"; bbox 0 0 2580 4366; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 343 1374 902 1451">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 343 1374 902 1451">
+     <span class='ocr_line' id='line_1_1' title="bbox 343 1374 902 1451; baseline 0 -3"><span class='ocrx_word' id='word_1_1' title='bbox 343 1375 391 1450; x_wconf 91' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_2' title='bbox 412 1374 580 1450; x_wconf 77' lang='lat' dir='ltr'>SENECAE</span> <span class='ocrx_word' id='word_1_3' title='bbox 602 1374 902 1451; x_wconf 78' lang='lat' dir='ltr'>TRAGOEDIARVM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 70 1673 1158 1760">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 70 1673 1158 1760">
+     <span class='ocr_line' id='line_1_2' title="bbox 70 1673 1158 1760; baseline 0 -1"><span class='ocrx_word' id='word_1_4' title='bbox 70 1674 420 1760; x_wconf 74' lang='lat' dir='ltr'>ERAEMENEIS</span> <span class='ocrx_word' id='word_1_5' title='bbox 456 1674 761 1759; x_wconf 78' lang='lat' dir='ltr'>RESCRIPEIS</span> <span class='ocrx_word' id='word_1_6' title='bbox 802 1673 1158 1759; x_wconf 80' lang='lat' dir='ltr'><strong>AMBROSIANIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 361 2421 872 2485">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 361 2421 872 2485">
+     <span class='ocr_line' id='line_1_3' title="bbox 361 2421 872 2485; baseline 0.006 -5"><span class='ocrx_word' id='word_1_7' title='bbox 361 2421 589 2484; x_wconf 80' lang='lat' dir='ltr'>GVILELMVS</span> <span class='ocrx_word' id='word_1_8' title='bbox 611 2424 872 2485; x_wconf 81' lang='lat' dir='ltr'>STVDEMVND.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1294 4366">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1294 4366">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1294 4366; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1294 4366; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

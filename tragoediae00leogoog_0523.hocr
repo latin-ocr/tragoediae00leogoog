@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tragoediae00leogoog_0523.png"; bbox 0 0 2580 4366; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 467 1161 816 1224">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 467 1161 816 1224">
+     <span class='ocr_line' id='line_1_1' title="bbox 467 1161 816 1224; baseline 0.011 -4"><span class='ocrx_word' id='word_1_1' title='bbox 467 1161 816 1224; x_wconf 74' lang='lat' dir='ltr'>PERSONAE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 415 1447 789 2313">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 480 1447 757 2008">
+     <span class='ocr_line' id='line_1_2' title="bbox 483 1447 757 1500; baseline 0.004 -2"><span class='ocrx_word' id='word_1_2' title='bbox 483 1447 625 1499; x_wconf 77' lang='grc' dir='ltr'><strong>ΤΑΝΤΑιι</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 643 1447 757 1500; x_wconf 68' lang='lat' dir='ltr'><strong>vMssRA</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 480 1549 579 1601; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 480 1549 579 1601; x_wconf 69' lang='lat' dir='ltr'><strong>Fvssm</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 481 1650 611 1704; baseline 0.015 -2"><span class='ocrx_word' id='word_1_5' title='bbox 481 1650 611 1704; x_wconf 70' lang='lat' dir='ltr'>ATREvs</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 482 1751 642 1806; baseline 0.019 -3"><span class='ocrx_word' id='word_1_6' title='bbox 482 1751 642 1806; x_wconf 66' lang='lat' dir='ltr'>sffltms</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 483 1840 651 1907; baseline 0.018 -3"><span class='ocrx_word' id='word_1_7' title='bbox 483 1840 651 1907; x_wconf 66' lang='lat' dir='ltr'>Tflvsssms</span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 482 1955 656 2008; baseline 0.006 -2"><span class='ocrx_word' id='word_1_8' title='bbox 482 1955 656 2008; x_wconf 67' lang='lat' dir='ltr'>TANTALvs</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 415 2056 789 2313">
+     <span class='ocr_line' id='line_1_8' title="bbox 415 2056 789 2110; baseline 0.005 -2"><span class='ocrx_word' id='word_1_9' title='bbox 415 2080 418 2084; x_wconf 96' lang='lat'>·</span> <span class='ocrx_word' id='word_1_10' title='bbox 481 2056 678 2110; x_wconf 75' lang='lat' dir='ltr'>PLISTHENES</span> <span class='ocrx_word' id='word_1_11' title='bbox 698 2059 789 2110; x_wconf 78' lang='lat' dir='ltr'><strong>tacitus</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 482 2158 627 2212; baseline 0.007 -2"><span class='ocrx_word' id='word_1_12' title='bbox 482 2158 627 2212; x_wconf 66' lang='lat' dir='ltr'>Nvavs</span> 
+     </span>
+     <span class='ocr_line' id='line_1_10' title="bbox 482 2259 607 2313; baseline 0.016 -3"><span class='ocrx_word' id='word_1_13' title='bbox 482 2259 607 2313; x_wconf 77' lang='lat' dir='ltr'><strong>cnons</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1305 4366">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1305 4366">
+     <span class='ocr_line' id='line_1_11' title="bbox 0 0 1305 4366; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1305 4366; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
